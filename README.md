@@ -2,7 +2,7 @@
 
 # Travart - A One Stop Trip Application 🛫
 <p align="center">
-  <img src="https://github.com/HVbajoria/Travart/blob/main/chatfrontend/src/home/Travart.png" width="250" alt="logo" >
+  <img src="https://github.com/ts2972002/hack-CBS-4.0/blob/main/chatfrontend/src/home/Travart.png" width="250" alt="logo" >
  </p>
  </br>
  
